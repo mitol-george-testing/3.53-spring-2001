@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Energy",
+      "Electricity"
+    ],
+    [
+      "Energy",
+      "Fuel Cells"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "108e5af4-7d18-f6b8-177d-10ad2b482cef"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Electrochemical Processing of Materials",
+  "course_description": "This course covers a variety of topics concerning superconducting magnets, including thermodynamic and transport properties of aqueous and nonaqueous electrolytes, the electrode/electrolyte interface, and the kinetics of electrode processes. It also covers electrochemical characterization with regards to d.c. techniques (controlled potential, controlled current) and\u00a0a.c. techniques (voltametry and impedance spectroscopy). Applications of the following will also be discussed: electrowinning, electrorefining, electroplating, and electrosynthesis, as well as electrochemical power sources (batteries and fuel cells).\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.53",
+  "learning_resource_types": [
+    "Course Introduction",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
